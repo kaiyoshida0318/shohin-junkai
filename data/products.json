@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-09T06:28:38.592Z",
+  "updatedAt": "2026-09-09T06:29:28.884Z",
   "fields": [
     {
       "key": "rival",
@@ -830,9 +830,25 @@
           "urlRakuten": "https://item.rakuten.co.jp/gutto-kuru-r/ca-010/",
           "checkNote": "",
           "checkedAt": "2026-09-09",
-          "picks": [],
+          "picks": [
+            {
+              "id": "itm_o8kpxvtxcua",
+              "addedAt": "2026-09-09",
+              "title": "カシオ MQ24 ベルト",
+              "urlAmazon": "",
+              "urlRakuten": "https://item.rakuten.co.jp/gutto-kuru-r/ca-010/?variantId=4804&s-id=step0_pc_itemname",
+              "imageAmazon": "",
+              "imageRakuten": "https://shop.r10s.jp/gutto-kuru-r/cabinet/07176189/ca-010-1-6.jpg",
+              "sales30": "",
+              "check": "before",
+              "buy": "before",
+              "rival": "o_p14mmp",
+              "quality": "",
+              "st": {}
+            }
+          ],
           "createdAt": "2026-09-09T06:26:47.378Z",
-          "updatedAt": "2026-09-09T06:28:33.629Z",
+          "updatedAt": "2026-09-09T06:29:23.650Z",
           "modes": {},
           "nameAmazon": ""
         },
