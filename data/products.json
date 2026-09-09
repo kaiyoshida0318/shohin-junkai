@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-09T06:29:28.884Z",
+  "updatedAt": "2026-09-09T06:30:02.497Z",
   "fields": [
     {
       "key": "rival",
@@ -832,6 +832,21 @@
           "checkedAt": "2026-09-09",
           "picks": [
             {
+              "id": "itm_y1cf07cy2yq",
+              "addedAt": "2026-09-09",
+              "title": "Gショック AW-590 ベルト",
+              "urlAmazon": "",
+              "urlRakuten": "https://item.rakuten.co.jp/gutto-kuru-r/gs-b31/?s-id=rk_shop_pc_rnkInShop",
+              "imageAmazon": "",
+              "imageRakuten": "https://shop.r10s.jp/gutto-kuru-r/cabinet/09368504/gs-b31-k-1-6.jpg",
+              "sales30": "",
+              "check": "before",
+              "buy": "before",
+              "rival": "o_p14mmp",
+              "quality": "",
+              "st": {}
+            },
+            {
               "id": "itm_o8kpxvtxcua",
               "addedAt": "2026-09-09",
               "title": "カシオ MQ24 ベルト",
@@ -848,7 +863,7 @@
             }
           ],
           "createdAt": "2026-09-09T06:26:47.378Z",
-          "updatedAt": "2026-09-09T06:29:23.650Z",
+          "updatedAt": "2026-09-09T06:29:57.506Z",
           "modes": {},
           "nameAmazon": ""
         },
