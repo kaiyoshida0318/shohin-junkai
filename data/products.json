@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-09T06:30:02.497Z",
+  "updatedAt": "2026-09-09T06:31:59.258Z",
   "fields": [
     {
       "key": "rival",
@@ -832,6 +832,21 @@
           "checkedAt": "2026-09-09",
           "picks": [
             {
+              "id": "itm_vl78qc90kuc",
+              "addedAt": "2026-09-09",
+              "title": "チープ カシオ ベルト 18mm 20mm 22mm",
+              "urlAmazon": "",
+              "urlRakuten": "https://item.rakuten.co.jp/gutto-kuru-r/ca-001/?s-id=rk_shop_pc_rnkInShop",
+              "imageAmazon": "",
+              "imageRakuten": "https://shop.r10s.jp/gutto-kuru-r/cabinet/07176189/ca-1-6.jpg",
+              "sales30": "",
+              "check": "before",
+              "buy": "before",
+              "rival": "o_p14mmp",
+              "quality": "",
+              "st": {}
+            },
+            {
               "id": "itm_y1cf07cy2yq",
               "addedAt": "2026-09-09",
               "title": "Gショック AW-590 ベルト",
@@ -863,7 +878,7 @@
             }
           ],
           "createdAt": "2026-09-09T06:26:47.378Z",
-          "updatedAt": "2026-09-09T06:29:57.506Z",
+          "updatedAt": "2026-09-09T06:31:53.988Z",
           "modes": {},
           "nameAmazon": ""
         },
