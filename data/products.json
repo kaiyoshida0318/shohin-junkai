@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-09T06:31:59.258Z",
+  "updatedAt": "2026-09-09T06:34:12.530Z",
   "fields": [
     {
       "key": "rival",
@@ -832,6 +832,21 @@
           "checkedAt": "2026-09-09",
           "picks": [
             {
+              "id": "itm_cqhltoq3fwh",
+              "addedAt": "2026-09-09",
+              "title": "DW-5600E/DW-6900",
+              "urlAmazon": "",
+              "urlRakuten": "https://item.rakuten.co.jp/gutto-kuru-r/gs-b18/?s-id=rk_shop_pc_rnkInShop",
+              "imageAmazon": "",
+              "imageRakuten": "https://shop.r10s.jp/gutto-kuru-r/cabinet/09368504/gs-b18-k5-1-6.jpg",
+              "sales30": "",
+              "check": "before",
+              "buy": "before",
+              "rival": "o_p14mmp",
+              "quality": "",
+              "st": {}
+            },
+            {
               "id": "itm_vl78qc90kuc",
               "addedAt": "2026-09-09",
               "title": "チープ カシオ ベルト 18mm 20mm 22mm",
@@ -878,7 +893,7 @@
             }
           ],
           "createdAt": "2026-09-09T06:26:47.378Z",
-          "updatedAt": "2026-09-09T06:31:53.988Z",
+          "updatedAt": "2026-09-09T06:34:07.553Z",
           "modes": {},
           "nameAmazon": ""
         },
